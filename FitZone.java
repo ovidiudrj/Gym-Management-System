@@ -70,7 +70,6 @@ public class FitZone {
         else if(option == 2){
             registrations.add(new Registration(new Client(name, surname), new PremiumSubscription()));
         }
-        // gasit modalitate in caz ca apasa diferit de 1 si 2
         System.out.println("Registration added");
     }
 
@@ -191,3 +190,4 @@ public class FitZone {
     }
 
 }
+
