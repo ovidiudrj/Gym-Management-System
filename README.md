@@ -12,6 +12,4 @@ It was designed to showcase foundational software design concepts, including com
 * 💪 **Dynamic Workouts:** Create distinct workout classes (e.g., Yoga, CrossFit, Pilates) parameterized by Base Price and Intensity Level (Easy, Medium, Hard).
 * 📊 **Automated Reporting:** Generates an immediate summary report mapping all available workout types to their qualified, assigned trainers.
 
-### 🛠️ Tech Stack
-
 * **Language:** Java
