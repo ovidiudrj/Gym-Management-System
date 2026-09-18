@@ -2,8 +2,6 @@
 
 A console-based software built using **Java** to manage the internal operations of a fitness center. 
 
-It was designed to showcase foundational software design concepts, including complex class interactions, abstraction, encapsulation, and clean data modeling.
-
 ###  Key Features
 
 *  **Interactive Console Workspace:** Navigate through a comprehensive menu to add client registrations, manage trainers, update pricing dynamically, or generate reports.
